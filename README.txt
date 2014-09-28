@@ -6,3 +6,4 @@ Le but de l'exercice est d'apprendre l'utilisation de Git, logiciel de versionni
 
 Je recommande ce tuto pour l'apprentissage de Git.
 
+Ajout d'un fichier HTML basique pour compléter mon repository
